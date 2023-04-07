@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "Build",
+    "site": "argon-assault-jsm",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
